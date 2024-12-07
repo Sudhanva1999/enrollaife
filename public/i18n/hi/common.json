@@ -1,0 +1,11 @@
+{
+    "navbar.title":"एनरोलएआई",
+    "navbar.home":"घर",
+    "navbar.coursesRegistration":"पाठ्यक्रम पंजीकरण",
+    "navbar.chatbot":"चैटबॉट",
+    "student.enrolledCourses":"वर्तमान में नामांकित पाठ्यक्रम",
+    "student.completedCourses":"पूर्ण पाठ्यक्रम",
+    "student.editProfile":"प्रोफ़ाइल संपादित करें",
+    "weather.temperature":"तापमान",
+    "weather.windSpeed":"हवा की गति"
+}
