@@ -1,0 +1,11 @@
+{
+    "navbar.title":"EnrollAI",
+    "navbar.home":"Home",
+    "navbar.coursesRegistration":"Courses Registration",
+    "navbar.chatbot":"Chatbot",
+    "student.enrolledCourses":"Currently Enrolled Courses",
+    "student.completedCourses":"Completed Courses",
+    "student.editProfile":"Edit Profile",
+    "weather.temperature":"Temperature",
+    "weather.windSpeed":"Wind Speed"
+}
